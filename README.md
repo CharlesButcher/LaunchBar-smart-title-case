@@ -1,5 +1,6 @@
 # LaunchBar-smart-title-case
-A LaunchBar action to convert text to title case ignoring "small words" 
+
+A LaunchBar action to convert text to title case ignoring "small words".
 
 As a writer based in Europe I dislike and fear US-style "title case" headlines, which capitalise the first letter of most words. Most word processors and text editors offer a function to convert text to title case, but in my experience this is always a "dumb" process. Small words such as "A" and "The" always end up capitalised, whereas most style guides agree that they should remain lowercase.
 
